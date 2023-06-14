@@ -7,7 +7,7 @@
 This is a simple linear regression project to predict medical insurance costs based on several factors that include age, sex, BMI, region, smoker status and number of children.
 
 The project structure is as follows:
-
+```
 MEDICALINSURANCE
 ├── main.py
 ├── app.py
@@ -18,7 +18,7 @@ MEDICALINSURANCE
     │   └── styles.css
     └── js
         └── script.js
-
+```
 The project structure consists of several files and folders. The main code and workflow orchestration are implemented in the main.py file. This file contains the core logic for the model and coordinates the execution of the project.
 
 The app.py file is responsible for handling the Flask application. It contains the necessary code to set up the server, define routes, and handle incoming requests from the web app.
